@@ -1,4 +1,4 @@
-Gerry Themes is a refined themes collection designed for comfortable development experience.<br/>
+Gerry Themes (Pro) is a refined themes collection designed for comfortable development experience.<br/>
 Gerry Themes:<br/>
 https://plugins.jetbrains.com/plugin/18922-gerry-themes<br/>
 Gerry Themes Pro:<br/>
